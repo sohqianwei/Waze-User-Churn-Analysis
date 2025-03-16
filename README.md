@@ -25,11 +25,15 @@ This project analyses **user churn behaviour** for Waze using historical data. T
 - **Python** (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
 - **Jupyter Notebooks** for data analysis
 
+--- 
+
 ## Exploratory Data Analysis (EDA)
 EDA includes: 
 - **Distribution of active vs. churn users**
 - **Trip frequency trends & navigation habits**
 - **Correlation heatmaps to identify key churn drivers**
+
+---
 
 ## 🚀 How to Reproduce
 ### **1. Clone the Repository**
